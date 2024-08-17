@@ -4,6 +4,9 @@
 @tailwind components;
 @tailwind utilities;
 
+:root::-webkit-scrollbar {
+  display: none;
+}
 * {
   margin: 0;
   padding: 0;
