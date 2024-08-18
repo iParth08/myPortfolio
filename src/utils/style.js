@@ -5,6 +5,8 @@ const styles = {
   paddingY: "sm:py-16 py-6",
   padding: "sm:px-16 px-6 sm:py-16 py-10",
 
+  actionColor: "#915eff",
+
   heroHeadText:
     "font-black text-white lg:text-[60px] sm:text-[40px] xs:text-[30px] text-[20px] lg:leading-[68px] mt-2",
   heroSubText:

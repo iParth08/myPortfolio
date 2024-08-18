@@ -26,6 +26,21 @@
 
 1. [3D Models on Sketchfab](https://sketchfab.com/3d-models)
 
+## Learning while coding
+
+1. How to add 3D models to your portfolio
+2. How to use framer-motion components
+3. How to structure code for better debugging & modification
+4. How to wrap components in **HOC functions** before exporting them
+5. **REACT THEORY :** Use of `Suspense`
+6. 
+
+## More to Learn
+1. Add automatic rotation to your 3D models ?
+2. Render modals on hover upon Canvas created elements ?
+3. Add title effect to skill balls ?
+4. Adjust view on device change ?
+5. 
 ## Problems Resolved
 
 > [!WARNING]
